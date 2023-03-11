@@ -36,7 +36,7 @@ function App() {
         </Link>
       </Text>
       <Text style={styles.text}>
-        To get started, edit{" "}
+       jeni app, edit{" "}
         <Link href="https://codesandbox.io/s/q4qymyp2l6/" style={styles.code}>
           src/App.js
         </Link>
